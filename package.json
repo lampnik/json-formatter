@@ -1,5 +1,5 @@
 {
-  "name": "dragon",
+  "name": "json-formatter",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
