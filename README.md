@@ -1,6 +1,6 @@
 # JSON Formatter
 
-This project is a basic JSON formatter bootstrapped with `create-react-app`. It's purposefully simple, and makes and network connections. You can run this locally or find a hosted version of it at https://formatting.zeroexzero.com/
+This project is a basic JSON formatter bootstrapped with `create-react-app`. It's purposefully simple, and makes no network connections. You can run this locally or find a hosted version of it at https://formatting.zeroexzero.com/
 
 
 ### `Quickstart`
