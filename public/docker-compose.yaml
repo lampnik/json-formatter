@@ -1,0 +1,11 @@
+
+version: '2'
+services:
+  go-web-app:
+    restart: always
+    build:
+      dockerfile: Dockerfile
+      context: .
+    environment:
+      - VIRTUAL_HOST=formatting.zeroexzero.com
+      - LETSENCRYPT_HOST=formatting.zeroexzero.com

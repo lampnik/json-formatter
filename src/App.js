@@ -5,6 +5,7 @@ import Button from 'react-bootstrap/Button';
 import { useAlert } from 'react-alert'
 
 import { ReactComponent as Logo } from './image.svg';
+import ReactGA from 'react-ga';
 
 import 'codemirror/lib/codemirror.css';
 import 'codemirror/theme/material.css';
